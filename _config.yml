@@ -13,7 +13,7 @@ baseurl: '/' #change it according to your repository name
 #Profile information
 name: Katarzyna Kedzierska
 tagline: Visiting MSc Student @ Center for Public Health Genomics, UVa
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "I'm a MSc student in biotechnology that recently made a shift from wet lab epigenomics to computational biology. So far I worked with RNA-seq, ATAC-seq and ChIP-seq histone data and recently started a project on SNPs and somatic mutations in cancer. "
 
 #sidebar links
