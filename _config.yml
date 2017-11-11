@@ -12,12 +12,9 @@ baseurl: '/' #change it according to your repository name
 
 #Profile information
 name: Katarzyna Kedzierska
-tagline: MSc Student in biotechnology / bioinformatics
+tagline: Visiting MSc Student @ Center for Public Health Genomics, UVa
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: "I'm a MSc student in biotechnology that recently made a shift from wet lab epigenomics to computational biology. So far I worked with RNA-seq, ATAC-seq and ChIP-seq histone data and recently started a project on SNPs and somatic mutations in cancer. "
 
 #sidebar links
 email: kzkedzierska@gmail.com
