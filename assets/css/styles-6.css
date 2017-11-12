@@ -195,6 +195,8 @@ p {
 }
 .main-wrapper .section {
   margin-bottom: 60px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 .main-wrapper .experiences-section .item {
   margin-bottom: 30px;
@@ -234,6 +236,8 @@ p {
 }
 .main-wrapper .projects-section .item {
   margin-bottom: 15px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 .skillset .item {
   margin-bottom: 15px;
