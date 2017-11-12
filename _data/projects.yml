@@ -6,6 +6,6 @@
   link: https://github.com/kkedzierska/ATACseq_workshop
   tagline: "GitHub repo with materials from the workshop I gave in September 2017 @ <a href="http://ngschool.eu/">#NGSchool2017</a>"
 - project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  title: Toolbox
+  link: https://github.com/kkedzierska/toolbox
+  tagline: "Bioinfo scripts I use in my everyday work."
