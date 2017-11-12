@@ -200,6 +200,8 @@ p {
 }
 .main-wrapper .experiences-section .item {
   margin-bottom: 30px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 .main-wrapper .upper-row {
   position: relative;
